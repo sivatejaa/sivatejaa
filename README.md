@@ -3,3 +3,6 @@
 
 
 
+- [ ] item 1
+- [x] item 2 (it’s done!)
+- [ ] item 3
